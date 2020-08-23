@@ -1,1 +1,1 @@
-# Image-Data-Reading-and-Stacking-Images
+# Getting Started with Image Data
